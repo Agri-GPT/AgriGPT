@@ -6,7 +6,7 @@
 
 - [AgriGPT-7B](https://huggingface.co/AgriGPT/AgriGPT-7B)，此版本为学术demo版，基于[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)训练而来。
 
-- [AgriGPT-13B](https://huggingface.co/AgriGPT/AgriGPT-13B)，此版本为学术demo版，基于[Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2-13B)训练而来，逻辑推理能力大幅提升，但是因为Anima的中文语料过少，导致问答时常会出现英文数据。
+- [AgriGPT-13B](https://huggingface.co/AgriGPT/AgriGPT-13B)，此版本为学术demo版，基于[Baichuan2-13B](https://github.com/baichuan-inc/Baichuan2-13B)训练而来。
 
 ## 简介 Brief Introduction
 
