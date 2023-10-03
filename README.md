@@ -54,6 +54,9 @@
 [![Star History](https://api.star-history.com/svg?repos=Agri-GPT/AgriGPT&type=Date)](https://star-history.com/#Agri-GPT/AgriGPT&Date)
 
 ## Contributors
+<a href="https://github.com/bolongliu/bolongliu/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bolongliu/bolongliu" />
+</a>
 
 <a href="https://github.com/Agri-GPT/AgriGPT/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Agri-GPT/AgriGPT" />
